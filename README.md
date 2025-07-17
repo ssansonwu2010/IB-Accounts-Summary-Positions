@@ -1,0 +1,17 @@
+    You need to Install Interactive Brokers API- Trader Workstation or IB Gateway.
+
+    https://www.interactivebrokers.com/en/trading/ib-api.php
+
+    Install Python and select add Python to PATH.
+
+    https://www.python.org/
+
+    https://realpython.com/add-python-to-path/
+
+    Make sure you install relevant Python libraries. Run following code in command to install libraries
+
+    pip install pandas ib_insync ibapi xlsxwriter openpyxl
+
+    Run the code to export your IB accounts summary and positions to an excel file.
+
+    Use the excel to analyze your position using any relevant data approach you like.
