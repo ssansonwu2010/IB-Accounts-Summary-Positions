@@ -4,9 +4,11 @@
 2. Install Python and select add Python to PATH.
    
    https://www.python.org/
+
+   If you have installed Python and need instruction to add Python to PATH, read the following website.
    
    https://realpython.com/add-python-to-path/
-3. Make sure you install relevant Python libraries.
+4. Make sure you install relevant Python libraries.
    Run following code in command to install libraries
    
    pip install pandas ib_insync ibapi xlsxwriter openpyxl
