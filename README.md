@@ -8,6 +8,7 @@
    https://realpython.com/add-python-to-path/
 3. Make sure you install relevant Python libraries.
    Run following code in command to install libraries
+   
    pip install pandas ib_insync ibapi xlsxwriter openpyxl
-4. Run the code to export your IB accounts summary and positions to an excel file.
-5. Use the excel to analyze your position using any relevant data approach you like.
+5. Run the code to export your IB accounts summary and positions to an excel file.
+6. Use the excel to analyze your position using any relevant data approach you like.
